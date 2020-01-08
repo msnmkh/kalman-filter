@@ -1,2 +1,27 @@
-# kalman-filter
-gyroscope ans odometery fusion using kalman filter simulation
+<h1 align="center">
+  <img src="media/kalman.png" width="15%"><br/>kalman filter
+</h1>
+
+<h4 align="center">
+  
+</h4>
+
+
+
+## Overview
+This project use kalman filter to estimate angel velocity of robot with matlab simulink.
+<h1 align="center">
+  <img src="media/GyroAndOdometry.jpg" width="15%"><br/>kalman filter
+</h1>
+
+
+## Code Requirements
+* matlab 
+* simulink of matlab
+
+
+## result
+<h1 align="center">
+  <img src="media/result.jpg" width="40%"><br/>
+</h1>
+
