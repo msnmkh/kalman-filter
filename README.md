@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="media/kalman.png" width="30%"><br/>kalman filter
+  <img src="media/kalman.png" width="30%"><br/>
 </h1>
 
 <h4 align="center">
@@ -11,7 +11,7 @@
 ## Overview
 This project use kalman filter to estimate angel velocity of robot with matlab simulink.
 <h1 align="center">
-  <img src="media/GyroAndOdometry.jpg" width="15%"><br/>kalman filter
+  <img src="media/GyroAndOdometry.png" width="40%"><br/>kalman filter
 </h1>
 
 
