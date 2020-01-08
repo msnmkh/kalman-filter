@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="media/kalman.png" width="15%"><br/>kalman filter
+  <img src="media/kalman.png" width="30%"><br/>kalman filter
 </h1>
 
 <h4 align="center">
@@ -22,6 +22,6 @@ This project use kalman filter to estimate angel velocity of robot with matlab s
 
 ## result
 <h1 align="center">
-  <img src="media/result.jpg" width="40%"><br/>
+  <img src="media/result.jpg" width="60%"><br/>
 </h1>
 
